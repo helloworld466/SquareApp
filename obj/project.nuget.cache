@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9HVTcm/XKzICz58R0PDe9Ii/yPDrWqYRw/8zPxPPOIeikTLya9iAmj6p0mfW4Wvfj+0hdkACnSYeUZlzJlc6jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akshay.badri\\source\\repos\\SquareApp\\SquareApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akshay.badri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\akshay.badri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
